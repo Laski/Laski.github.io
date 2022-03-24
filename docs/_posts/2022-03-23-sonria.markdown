@@ -5,34 +5,35 @@ date:   2022-03-23 17:30:05 -0300
 categories: jekyll update
 ---
 
-Estimade.
-
-Le invitamos  al evento “Sonria, le estamos granulando”, una intervención audiovisual por  Emilia Inés Vega y Sol Sarratea. En colaboración con  Nahuel Lascano y usted.
-El evento se realizará en el marco del festival SPAM Arts en el Patio del Aljibe - Centro Cultural Recoleta el Viernes 25 de Marzo a las 20hs.
-
-Esta será una obra colaborativa. Es decir, necesitamos su cooperación para crear. Vamos a utilizar los celulares para filmar, y vamos a estar charlando con ustedes y grabando sus voces.
-
+# Instrucciones
 Elijan su rol, choose your player.
 
-Puede usted elegir hablar con Nahuel; bailar y ser filmado;  escribir texto,  filmarlo y/o leerlo; conversar y preguntar; filmar lo que usted quiera; ser espectador y observar; o cualquier otra posibilidad que usted crea apropiada, y cree.
+1. Descargar la aplicación Iriun Webcam ([Android](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam) / [iPhone](https://apps.apple.com/us/app/iriun-webcam-for-pc-and-mac/id1439303579)) para enviar audio o video.
 
-Si usted desea enviarnos señales para procesar lea el siguiente texto:
+2. 
 
-INICIO de Instrucciones para mandar señales de audio y video
-Pueden descargar  la aplicación Iriun Webcam, y en el día de la performance  ingresar en la red wifi Visualia-5G con la contraseña lovenotwar.  Al conectarse a la red, se le va a abrir una página de autenticación del router. No desespere, solo ciérrela. Y como es una red interna para la performance sin acceso a Internet, algunos celulares van a denegar la conexión, pero pueden habilitarlos manualmente. No tema, el router se va a apagar después de la performance.
+    **Video**: wifi Visualia-5G contraseña `lovenotwar`.
+   
+    **Audio**: wifi Audalia-5G contraseña `lovenotwar`. 
+ 
+3. Si al conectarse a la red aparece una página de login, ir al icono `⋮` (arriba a la derecha) y elegir "Usar la red como está" / "Use network as is" 
+4. Abrir la aplicación y esperar. Para video, se puede elegir entre la cámara principal o la selfie.
 
-Una vez instalada la app y conectado a la red puede usted abrir la aplicación. Y automáticamente nos van a estar enviando señales de video y de audio, que vamos a procesar en tiempo real y co-crear la obra.
+Nosotres somos Emilia Inés Vega, Sol Sarratea y Laski
 
-Si usted  desea dejar de mandar señales, puede cerrar la App y desconectarse de la red.
-FIN de  Instrucciones para mandar señales de audio y video
-
-Recuerde, que siempre puede cambiar su rol y que por primera vez en lugar de pedir que apaguen sus celulares vamos a pedir que los usen para crear con nosotres.
-
-Desde ya muchas gracias. Les esperamos, y saluda atte.
-
-Nahuel Lascano, Emilia Inés Vega y Sol Sarratea
+Gracias por participar.
 
 
+# Más info
+Estimade,
 
-“Sonria, le estamos granulando” es una intervención colaborativa entre nosotres y ustedes. Necesitamos su cooperación para crear. Vamos a utilizar los celulares para filmar, y vamos a estar charlando con ustedes y grabando sus voces. Elijan su rol, choose your player. Pueden escanear el QR y descargar la aplicación Iriun Webcam e ingresar en la red wifi Visualia con la contraseña lovenotwar. Los datos para ingresar permanecerán abajo en la pantalla. Por primera vez en lugar de pedir que apaguen sus celulares vamos a pedir que los usen para crear con nosotres.
-Nuestros nombres son Sol Sarratea, Nahuel Lascano y Emilia Inés Vega.
+Le invitamos al evento “Sonria, le estamos granulando”, una intervención audiovisual por  Emilia Inés Vega y Sol Sarratea. En colaboración con Nahuel (Laski) Lascano y usted.
+
+Esta es una obra colaborativa. Es decir, necesitamos su cooperación para crear. Vamos a utilizar los celulares para filmar, y vamos a estar charlando con ustedes y grabando sus voces.
+
+Puede usted elegir hablar con Laski; bailar y ser filmade; escribir texto, filmarlo y/o leerlo; conversar y preguntar; filmar lo que usted quiera; ser espectador y observar;
+o cualquier otra posibilidad que usted crea apropiada, 
+
+y principalmente, cree.
+
+Recuerde que siempre puede cambiar su rol y que por primera vez en lugar de pedir que apaguen sus celulares vamos a pedir que los usen para crear con nosotres.
