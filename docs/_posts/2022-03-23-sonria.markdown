@@ -5,13 +5,34 @@ date:   2022-03-23 17:30:05 -0300
 categories: jekyll update
 ---
 
+Estimade.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices velit at nisl sagittis, ut efficitur ipsum ornare. Vivamus ipsum enim, viverra vitae lobortis vitae, auctor id nibh. Aliquam tempor libero a sollicitudin pharetra. Integer sit amet cursus purus, vitae dictum neque. Sed gravida dui ligula, maximus malesuada velit rhoncus in. Nunc in urna eget metus suscipit sodales sed a tortor. In sit amet velit sed mauris sagittis tristique. Pellentesque leo erat, interdum vel faucibus sagittis, laoreet nec leo. Sed ac lobortis lorem. Ut dui sapien, volutpat vel ex sit amet, rhoncus dictum tellus. Suspendisse vel dictum augue, malesuada bibendum lectus. Nulla imperdiet odio sed commodo posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Le invitamos  al evento “Sonria, le estamos granulando”, una intervención audiovisual por  Emilia Inés Vega y Sol Sarratea. En colaboración con  Nahuel Lascano y usted.
+El evento se realizará en el marco del festival SPAM Arts en el Patio del Aljibe - Centro Cultural Recoleta el Viernes 25 de Marzo a las 20hs.
 
-In aliquet accumsan justo. Duis condimentum ante eget neque ultricies tincidunt. Suspendisse ac mauris justo. Quisque sed augue sed erat ornare eleifend ac nec tortor. Nunc sollicitudin lectus a porta fringilla. Donec fringilla, metus at scelerisque faucibus, est enim scelerisque eros, ut varius elit velit sit amet urna. Donec mollis, metus sit amet condimentum congue, quam magna molestie orci, sit amet ultrices purus justo vitae odio. Cras efficitur maximus libero, nec vulputate sem pretium et. Etiam ullamcorper malesuada est, vel interdum magna scelerisque molestie. Vestibulum volutpat viverra dolor, ac aliquet est. Mauris sodales erat vitae ligula venenatis, in venenatis tortor maximus. Pellentesque lobortis nulla et lacinia sodales. Aenean iaculis nibh vitae lectus tempor mattis. Proin malesuada auctor elit, nec imperdiet tortor volutpat nec. Curabitur sagittis enim at ante posuere pharetra. Aenean tincidunt elit eros, quis tempus augue placerat ac.
+Esta será una obra colaborativa. Es decir, necesitamos su cooperación para crear. Vamos a utilizar los celulares para filmar, y vamos a estar charlando con ustedes y grabando sus voces.
 
-Cras finibus venenatis consequat. Aliquam dui lorem, bibendum in blandit vitae, ornare quis nibh. Fusce vulputate, massa vitae convallis vulputate, neque nibh hendrerit est, et egestas arcu tortor a sapien. Nam non velit id ante maximus luctus nec hendrerit lorem. Integer facilisis finibus fringilla. Aenean condimentum a ipsum nec laoreet. Fusce lacinia, erat quis sodales efficitur, arcu ipsum mattis nunc, id hendrerit velit libero aliquam lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a sem tincidunt, imperdiet lorem et, sollicitudin nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sit amet cursus lorem, sed gravida nisl. Morbi vitae risus vel libero porttitor gravida. Etiam quis posuere sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Elijan su rol, choose your player.
 
-Aliquam erat volutpat. Etiam mollis quis dui in elementum. Donec tincidunt urna a erat fringilla, commodo iaculis diam auctor. Aliquam tempus ullamcorper felis sed ornare. Cras tempor euismod eros. Ut dictum ut quam vel pretium. Integer pulvinar venenatis scelerisque. Morbi malesuada accumsan faucibus. Ut aliquet iaculis massa id sollicitudin. Cras a egestas erat, ut aliquam enim. Vestibulum et tortor lectus. Vestibulum non ullamcorper ante, at tincidunt est. Fusce orci nisi, vehicula ac lobortis vitae, interdum eu est. Vestibulum accumsan ut massa ac luctus. Integer vel rhoncus magna. Sed condimentum euismod velit, ut sollicitudin augue ornare sit amet.
+Puede usted elegir hablar con Nahuel; bailar y ser filmado;  escribir texto,  filmarlo y/o leerlo; conversar y preguntar; filmar lo que usted quiera; ser espectador y observar; o cualquier otra posibilidad que usted crea apropiada, y cree.
 
-Aliquam ex mi, volutpat a dictum sed, vestibulum ut massa. Nam laoreet, enim non euismod lacinia, turpis lacus porttitor orci, sed mattis lectus eros eu justo. Donec sodales lacinia fermentum. Sed magna dui, varius commodo odio id, ornare blandit sapien. Sed non ultrices turpis. Nam nec pellentesque dui. Mauris posuere pretium euismod. Sed fringilla consequat lacus, non gravida lectus suscipit a. Nulla lobortis dolor at orci vehicula suscipit. Donec non dignissim mauris. 
+Si usted desea enviarnos señales para procesar lea el siguiente texto:
+
+INICIO de Instrucciones para mandar señales de audio y video
+Pueden descargar  la aplicación Iriun Webcam, y en el día de la performance  ingresar en la red wifi Visualia-5G con la contraseña lovenotwar.  Al conectarse a la red, se le va a abrir una página de autenticación del router. No desespere, solo ciérrela. Y como es una red interna para la performance sin acceso a Internet, algunos celulares van a denegar la conexión, pero pueden habilitarlos manualmente. No tema, el router se va a apagar después de la performance.
+
+Una vez instalada la app y conectado a la red puede usted abrir la aplicación. Y automáticamente nos van a estar enviando señales de video y de audio, que vamos a procesar en tiempo real y co-crear la obra.
+
+Si usted  desea dejar de mandar señales, puede cerrar la App y desconectarse de la red.
+FIN de  Instrucciones para mandar señales de audio y video
+
+Recuerde, que siempre puede cambiar su rol y que por primera vez en lugar de pedir que apaguen sus celulares vamos a pedir que los usen para crear con nosotres.
+
+Desde ya muchas gracias. Les esperamos, y saluda atte.
+
+Nahuel Lascano, Emilia Inés Vega y Sol Sarratea
+
+
+
+“Sonria, le estamos granulando” es una intervención colaborativa entre nosotres y ustedes. Necesitamos su cooperación para crear. Vamos a utilizar los celulares para filmar, y vamos a estar charlando con ustedes y grabando sus voces. Elijan su rol, choose your player. Pueden escanear el QR y descargar la aplicación Iriun Webcam e ingresar en la red wifi Visualia con la contraseña lovenotwar. Los datos para ingresar permanecerán abajo en la pantalla. Por primera vez en lugar de pedir que apaguen sus celulares vamos a pedir que los usen para crear con nosotres.
+Nuestros nombres son Sol Sarratea, Nahuel Lascano y Emilia Inés Vega.
